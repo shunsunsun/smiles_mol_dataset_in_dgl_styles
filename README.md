@@ -1,2 +1,2 @@
 # smiles_mol_dataset_in_dgl_styles
-None
+Transform the smiles list to DGLGraph data
